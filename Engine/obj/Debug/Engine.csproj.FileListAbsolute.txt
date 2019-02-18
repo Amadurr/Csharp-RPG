@@ -10,3 +10,4 @@ C:\Users\SoF-M\Desktop\Csharp-RPG\Engine\obj\Debug\Engine.csprojAssemblyReferenc
 C:\Users\SoF-M\Desktop\Csharp-RPG\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
 C:\Users\SoF-M\Desktop\Csharp-RPG\Engine\obj\Debug\Engine.dll
 C:\Users\SoF-M\Desktop\Csharp-RPG\Engine\obj\Debug\Engine.pdb
+C:\Users\SoF-M\Desktop\Csharp-RPG\Engine\obj\Debug\Engine.g.resources

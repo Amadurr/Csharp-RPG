@@ -27,7 +27,8 @@ namespace Engine.ViewModels
                 LocationName = "Home",
                 XCoordinate = 0,
                 YCoordinate = -1,
-                LocationDescription = "This is your house"
+                LocationDescription = "This is your house",
+                ImageName = "/Engine;component/Images/Locations/HerbHut.jpg"
             };
         }
     }
