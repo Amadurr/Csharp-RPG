@@ -1,0 +1,6 @@
+C:\Users\SoF-M\Desktop\Csharp-RPG\SOSCSRPG\Engine\bin\Debug\Engine.dll
+C:\Users\SoF-M\Desktop\Csharp-RPG\SOSCSRPG\Engine\bin\Debug\Engine.pdb
+C:\Users\SoF-M\Desktop\Csharp-RPG\SOSCSRPG\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\SoF-M\Desktop\Csharp-RPG\SOSCSRPG\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\SoF-M\Desktop\Csharp-RPG\SOSCSRPG\Engine\obj\Debug\Engine.dll
+C:\Users\SoF-M\Desktop\Csharp-RPG\SOSCSRPG\Engine\obj\Debug\Engine.pdb

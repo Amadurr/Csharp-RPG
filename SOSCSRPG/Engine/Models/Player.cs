@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Engine.Models
 {
-    class Player
+    public class Player
     {
-        string name { get; set; }
-        string characterClass { get; set; }
-        int hitPoints { get; set; }
-        int experiencePoints { get; set; }
-        int level { get; set; }
-        int gold { get; set; }
+        public string name { get; set; }
+        public string characterClass { get; set; }
+        public int hitPoints { get; set; }
+        public int experiencePoints { get; set; }
+        public int level { get; set; }
+        public int gold { get; set; }
     }
 }
