@@ -15,7 +15,11 @@ namespace Engine.ViewModels
         {
             currentPlayer = new Player();
             currentPlayer.name = "Gord";
-            currentPlayer.gold = 100;
+            currentPlayer.characterClass = "Barbarian";
+            currentPlayer.hitPoints = 10;
+            currentPlayer.gold = 1000000;
+            currentPlayer.experiencePoints = 0;
+            currentPlayer.level = 1;
         }
     }
 }
