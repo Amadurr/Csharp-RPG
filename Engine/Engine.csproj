@@ -41,12 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Factories\WorldFactory.cs" />
     <Compile Include="Models\Location.cs" />
     <Compile Include="Models\Player.cs" />
+    <Compile Include="Models\World.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\GameSession.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\Locations\125x125.png" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\Locations\HerbHut.jpg" />
   </ItemGroup>
