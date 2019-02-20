@@ -57,7 +57,11 @@ namespace Engine.Factories
                 "/Engine;component/Images/Locations/125x125.png");
 
             newWorld.AddLocation(0, 2, "Gates of Tholstrid",
-                "Vast fields with farmers",
+                "Grand gates for a grand city",
+                "/Engine;component/Images/Locations/125x125.png");
+
+            newWorld.AddLocation(0, 3, "Tholstrid",
+                "Grand City",
                 "/Engine;component/Images/Locations/125x125.png");
 
             newWorld.AddLocation(1, -1, "Marshes of the Enarrh-Khirss 1-1",
